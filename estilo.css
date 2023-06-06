@@ -101,3 +101,6 @@ h2{
     color: black;
     font-size: 16px;
 }
+img{
+    border-radius: 10px;
+}
